@@ -80,10 +80,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=mandalsudip367&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mandalsudip367&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=mandalsudip367&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="GitHub Contri"  />
-</div>
+<p align="center">
+  <h3>🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
+</p>
 
 ###
 
