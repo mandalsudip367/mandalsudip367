@@ -12,6 +12,8 @@
 
 ###
 
+<h3 align="center">Languages and Tools:</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
   <img width="12" />
@@ -46,7 +48,7 @@
 
 ###
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudip-mandal-x367" target="_blank">
