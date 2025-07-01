@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 
-- 👋 Hi, I’m @SudipZluck
+- 👋 Hi, I’m Sudip Mondal
 - 👀 I’m interested in Flutter/Dart
 - 🌱 I’m currently learning Flutter/React Native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Mail at sudipm@zluck.in
+- 💼 Work Experience in Flutter development is 3+ Years
+- 📫 How to reach me? Mail at mandalsudip367@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Pata nhi 😄
+- ⚡ Fun fact: Mujhe bhi Pata nhi 😄
 
 ###
 
