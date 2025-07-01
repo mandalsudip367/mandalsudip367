@@ -82,7 +82,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=mandalsudip367&show_icons=true&locale=en&theme=dracula](https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="GitHub Contri"  />
 </div>
 
 ###
