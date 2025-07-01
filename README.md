@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="left"> 💫 About Me</h3>
+<h3 align="left"> 💫 About Me:</h3>
 
 - 👋 Hi, I’m Sudip Mondal
 - 👀 I’m interested in Flutter/Dart
