@@ -81,8 +81,8 @@
 </div>
 
 <p align="center">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
+  <h3 align="center">🔝 Top Contributed Repo</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=mandalsudip367&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo Stats" />
 </p>
 
 ###
