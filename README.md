@@ -82,7 +82,7 @@
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=SudipZluck&limit=5&theme=dark&combine_all_yearly_contributions=true" height="150" alt="GitHub Contri"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=mandalsudip367&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github-contributor-stats.vercel.app/api?username=mandalsudip367&limit=5&theme=dark&combine_all_yearly_contributions=true" height="250" alt="GitHub Contri"  />
 </div>
 
 ###
