@@ -1,4 +1,14 @@
 <h1 align="center">Nomoskar 🙏🏻, I'm Sudip Mondal</h1>
+<h3 align="center">A passionate Flutter developer from India</h3>
+
+
+- 👋 Hi, I’m @SudipZluck
+- 👀 I’m interested in Flutter/Dart
+- 🌱 I’m currently learning Flutter/React Native
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me? Mail at sudipm@zluck.in
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Pata nhi 😄
 
 ###
 
