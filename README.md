@@ -105,7 +105,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mandalsudip367/mandalsudip367/output/snake.svg" alt="Snake animation" />
-
-###
