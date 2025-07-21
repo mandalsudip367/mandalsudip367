@@ -101,7 +101,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mandalsudip367/count.svg?"  />
+  <img src="https://profile-counter.deno.dev/mandalsudip367/count.svg?"  />
 </div>
 
 ###
